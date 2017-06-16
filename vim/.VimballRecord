@@ -1,0 +1,4 @@
+DrawIt.vba: call delete('/home/yangh/.vim/plugin/DrawItPlugin.vim')|call delete('/home/yangh/.vim/plugin/cecutil.vim')|call delete('/home/yangh/.vim/autoload/DrawIt.vim')|call delete('/home/yangh/.vim/doc/DrawIt.txt')
+DrawIt.vba: call delete('/home/yangh/.vim/plugin/DrawItPlugin.vim')|call delete('/home/yangh/.vim/plugin/cecutil.vim')|call delete('/home/yangh/.vim/autoload/DrawIt.vim')|call delete('/home/yangh/.vim/doc/DrawIt.txt')
+tagbar.vmb: call delete('/home/yangh/.vim/README.md')|call delete('/home/yangh/.vim/autoload/tagbar.vim')|call delete('/home/yangh/.vim/doc/tagbar.txt')|call delete('/home/yangh/.vim/plugin/tagbar.vim')|call delete('/home/yangh/.vim/syntax/tagbar.vim')
+supertab.vmb: call delete('/home/yangh/.vim/doc/supertab.txt')|call delete('/home/yangh/.vim/plugin/supertab.vim')
